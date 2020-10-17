@@ -26,7 +26,7 @@ const TutorialCard = ({
                 src={
                   icon
                     ? icon
-                    : "https://www.shareicon.net/data/512x512/2017/01/06/868317_check-mark_512x512.png"
+                    : "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png"
                 }
               />
             }
